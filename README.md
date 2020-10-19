@@ -82,3 +82,7 @@ Refactored Results:
     ![Type2](https://user-images.githubusercontent.com/71234992/96408726-f0590880-1198-11eb-9c1d-0b49008213a6.PNG)
 
 ## Summary
+Overall, the results that were found showed that the THS 9th grade math and reading grades were slightly skewed 
+upwards. This changed every category including, but not limited to, the overall district results, the by grade results,
+the school size results, and the school spending results. All in all, the academic dishonesty in the 9th grade at Thomas 
+High School had an inflation effect on the results of the analysis.
